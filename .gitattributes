@@ -1,2 +1,19 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mypersonal Introduction</title> 
+<style>
+body{
+background-color:DFC03F;
+}
+h1{
+color:BD752B;
+}
+p{
+color:4D8843;
+}
+</style>
+</head>
+<body><h1>My name is Devin karner<p>I am a highschool student. I am im 12th grade. I enjoy playing video games</p></h1></body>
+
+</html>
